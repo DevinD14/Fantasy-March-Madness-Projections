@@ -1,65 +1,65 @@
-Team,ExpectedGames
-Auburn,4.503
-Alabama State,1.000
-Louisville,1.776
-Creighton,1.450
-Texas A&M,2.612
-Yale,1.108
-Michigan,2.303
-UC San Diego,1.329
-Iowa State,3.201
-Lipscomb,1.048
-Mississippi,1.750
-North Carolina,1.752
-Marquette,1.991
-New Mexico,1.492
-Michigan State,3.214
-Bryant,1.010
-Florida,4.141
-Norfolk State,1.001
-Connecticut,1.741
-Oklahoma,1.473
-Maryland,3.332
-Grand Canyon,1.049
-Memphis,1.528
-Colorado State,1.683
-Texas Tech,3.292
-UNC Wilmington,1.019
-Missouri,2.425
-Drake,1.145
-Kansas,2.139
-Arkansas,1.498
-St. John's,2.984
-Omaha,1.013
-Duke,4.425
-Mount St Mary's,1.000
-Mississippi State,1.504
-Baylor,1.704
-Arizona,3.035
-Akron,1.035
-Oregon,2.131
-Liberty,1.205
-Wisconsin,2.913
-Montana,1.016
-BYU,2.112
-VCU,1.446
-Saint Mary's,1.787
-Vanderbilt,1.482
-Alabama,3.771
-Robert Morris,1.007
-Houston,3.953
-SIU Edwardsville,1.000
-Gonzaga,2.212
-Georgia,1.330
-Purdue,2.776
-High Point,1.084
-Clemson,2.311
-McNeese State,1.202
-Kentucky,2.839
-Troy,1.040
-Illinois,2.341
-Xavier,1.387
-UCLA,1.996
-Utah State,1.390
-Tennessee,3.557
-Wofford,1.009
+Team,Seed,ExpectedGames
+Auburn,1,4.503
+Alabama State,16,1.0
+Louisville,8,1.776
+Creighton,9,1.45
+Texas A&M,5,2.612
+Yale,12,1.108
+Michigan,4,2.303
+UC San Diego,13,1.329
+Iowa State,6,3.201
+Lipscomb,11,1.048
+Mississippi,3,1.75
+North Carolina,14,1.752
+Marquette,7,1.991
+New Mexico,10,1.492
+Michigan State,2,3.214
+Bryant,15,1.01
+Florida,1,4.141
+Norfolk State,16,1.001
+Connecticut,8,1.741
+Oklahoma,9,1.473
+Maryland,5,3.332
+Grand Canyon,12,1.049
+Memphis,4,1.528
+Colorado State,13,1.683
+Texas Tech,6,3.292
+UNC Wilmington,11,1.019
+Missouri,3,2.425
+Drake,14,1.145
+Kansas,7,2.139
+Arkansas,10,1.498
+St. John's,2,2.984
+Omaha,15,1.013
+Duke,1,4.425
+Mount St Mary's,16,1.0
+Mississippi State,8,1.504
+Baylor,9,1.704
+Arizona,5,3.035
+Akron,12,1.035
+Oregon,4,2.131
+Liberty,13,1.205
+Wisconsin,6,2.913
+Montana,11,1.016
+BYU,3,2.112
+VCU,14,1.446
+Saint Mary's,7,1.787
+Vanderbilt,10,1.482
+Alabama,2,3.771
+Robert Morris,15,1.007
+Houston,1,3.953
+SIU Edwardsville,16,1.0
+Gonzaga,8,2.212
+Georgia,9,1.33
+Purdue,5,2.776
+High Point,12,1.084
+Clemson,4,2.311
+McNeese State,13,1.202
+Kentucky,6,2.839
+Troy,11,1.04
+Illinois,3,2.341
+Xavier,14,1.387
+UCLA,7,1.996
+Utah State,10,1.39
+Tennessee,2,3.557
+Wofford,15,1.009
